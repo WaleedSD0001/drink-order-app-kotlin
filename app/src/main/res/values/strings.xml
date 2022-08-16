@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Drink Order App</string>
+    <string name="orange">Orange</string>
+    <string name="drink_order">Drink Order</string>
+    <string name="strawberry">strawberry</string>
+    <string name="abricot">Abricot</string>
+    <string name="apple">Apple</string>
+</resources>
